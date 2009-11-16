@@ -1,0 +1,1 @@
+mysql -u root -p db_staging < db_dev.mysql
